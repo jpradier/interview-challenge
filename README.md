@@ -13,7 +13,7 @@ Confirm that you can connect to the watsonx account.
 ### What Is Watsonx.ai
 | **Time**        | **Topic** |
 |-----------------|-------------------|
-| 20 mins  | [Review document on watsonx.ai](https://www.ibm.com/products/watsonx-ai) | 
+| 20 mins  | [Review documentation on watsonx.ai](https://www.ibm.com/products/watsonx-ai) | 
 |
 ### Foundations of Watsonx.ai
 | **Time**        | **Topic** |
@@ -24,7 +24,7 @@ Confirm that you can connect to the watsonx account.
 | 30 mins  | Lab 3: [watsonx.ai Demo in Streamlit](./lab-3-watsonxai-demo-with-streamlit) | 
 
 ### Challenge
-Write you own streamlit RAG application, so you can ask question about [applicant resumes](./ResumeDataset_Reference.csv).
+Write you own streamlit RAG application, so you can ask questions about [applicant resumes](./ResumeDataset_Reference.csv).
 Make a small presentation to highlight the benefits of using watsonx.ai
 
 
