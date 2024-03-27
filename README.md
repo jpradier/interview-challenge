@@ -24,8 +24,8 @@ Confirm that you can connect to the watsonx account.
 | 30 mins  | Lab 3: [watsonx.ai Demo in Streamlit](./lab-3-watsonxai-demo-with-streamlit) | 
 
 ### Challenge
-Write you own streamlit RAG application, so you can ask questions about [applicant resumes](./ResumeDataset_Reference.csv).
-Make a small presentation to highlight the benefits of using watsonx.ai
+Write you own streamlit application, so you can ask questions about [applicant resumes](./ResumeDataset_Reference.csv).
+Make a small presentation to highlight the benefits of using watsonx.ai and your choices.
 
 
 
