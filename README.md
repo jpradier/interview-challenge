@@ -13,7 +13,7 @@ Confirm that you can connect to the watsonx account.
 ### What Is Watsonx.ai
 | **Time**        | **Topic** |
 |-----------------|-------------------|
-| 20 mins  | [Technical POV on watsonx.ai Platform](watsonxai-platform.md) | 
+| 20 mins  | [Review document on watsonx.ai](https://www.ibm.com/products/watsonx-ai) | 
 |
 ### Foundations of Watsonx.ai
 | **Time**        | **Topic** |
